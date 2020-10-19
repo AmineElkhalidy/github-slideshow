@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+a day with no previous planning is a wasted day !!
 Use the left arrow to go back!
